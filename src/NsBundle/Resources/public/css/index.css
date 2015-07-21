@@ -1,0 +1,25 @@
+/* index 
+==========*/
+#panel{
+	width:620px;
+	margin:30% auto;
+}
+button a{
+	text-decoration: none
+}
+button a:hover{
+	text-decoration: none
+}
+/*#btn1{
+	float:left;	
+}
+#btn2{
+	float:left;
+}
+#btn3{
+	float:left;
+}
+#btn4{
+	float:left;
+	clear: both;
+}*/
